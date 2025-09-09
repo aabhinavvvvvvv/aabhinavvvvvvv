@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-gupta-a08b13304/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aabhinavvvvv) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavguptaxia9213@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/aabhinavvvvv/) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aabhinavvvvv) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/aabhinavvvvvvv/) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/abhinavguptaxia9213) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/aabhinavvvvv)
  
 
